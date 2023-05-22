@@ -527,7 +527,7 @@ function addComment() {
 * Working with a group of developers to identify front and back end bugs to improve usability of an application
 * Improving project flow by communicating about who needs to check out which files for their current story
 * Learning new efficiencies from other developers by observing their workflow and asking questions
-* Add more
+
 
 *Jump to: [Front End Stories](#front-end-stories), [Back End Stories](#back-end-stories), [Other Skills](#other-skills-learned), [Page Top](#live-project)*
 
