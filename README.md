@@ -202,6 +202,9 @@ This was my first user story assigned to me, and I believe there are better ways
 ### Comments Partial View
 My task was to create a partial view to pass in all of the comments from the database. This partial view allowed me to keep the nav bar and footer functionality while implementing new functionalities to my "comments". Here is a gif of what the user would see. Please keep in mind that the formatting and styling of the comments was not an assigned user story, so I did not focus my limited time on those aspects. 
 
+![](https://github.com/markedin/CSharp-Live-Project-Code-Review/blob/main/gifs/functionaliy.gif)
+
+
 <details>
     <summary>Click here to show the HTML</summary>
 
